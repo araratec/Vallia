@@ -1,6 +1,10 @@
 Vallia
-======
 
 Validadores usados no projeto [Lançado embutido, incubado]
 
-[![Build Status](https://ci-jrimum.rhcloud.com/buildStatus/icon?job=Vallia)](https://ci-jrimum.rhcloud.com)
+        <!--jrimum-utilix-->
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>jrimum-utilix</artifactId>
+            <version>${project.version}</version>
+        </dependency>
