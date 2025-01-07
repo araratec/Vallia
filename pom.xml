@@ -138,17 +138,17 @@
         </dependency>
         
         <!--jrimum-utilix-->
-<!--        <dependency>
+        <dependency>
             <groupId>${project.groupId}</groupId>
             <artifactId>jrimum-utilix</artifactId>
             <version>${project.version}</version>
-        </dependency>-->
+        </dependency>
         
-        <dependency>
+<!--        <dependency>
             <groupId>br.com.ararati.boleto</groupId>
             <artifactId>utilix</artifactId>
             <version>1.0</version>
-        </dependency>
+        </dependency>-->
         
         <dependency>
             <groupId>commons-lang</groupId>
