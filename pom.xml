@@ -2,7 +2,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>org.jrimum</groupId>
+    <groupId>br.com.ararati</groupId>
     <artifactId>jrimum-vallia</artifactId>
     <packaging>jar</packaging>
     <name>Projeto Vallia</name>
@@ -139,9 +139,9 @@
         
         <!--jrimum-utilix-->
         <dependency>
-            <groupId>${project.groupId}</groupId>
+            <groupId>br.com.ararati</groupId>
             <artifactId>jrimum-utilix</artifactId>
-            <version>${project.version}</version>
+            <version>0.2.3-DEV-SNAPSHOT</version>
         </dependency>
         
 <!--        <dependency>
